@@ -1,5 +1,7 @@
 # coffee-machine
-Jet Brains Academy - Java - Coffee Machine
+JetBrains Academy - Java - Coffee Machine
+- [JetBrains Academy](https://hyperskill.org)
+- [project link](https://hyperskill.org/projects/33?goal=7)
 
 Requirement
 - Java 14
