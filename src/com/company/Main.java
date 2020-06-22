@@ -39,7 +39,7 @@ public class Main {
             }
             System.out.println("I have enough resources, making you a coffee!");
         } else {
-            System.out.printf("Sorry, not enough %s!", lack);
+            System.out.printf("Sorry, not enough %s!%n", lack);
         }
     }
 
