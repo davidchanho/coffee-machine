@@ -11,6 +11,11 @@ Run Command
 java src/com/company/Main.java
 ```
 
+Commands
+- buy = purchase drinks
+- fill = gain more ingredients
+- remaining = print ingredient stocks
+- exit = end program
+
 Demo
 ![Demo](/coffee.gif)
-Format: ![Alt Text](Demo)
